@@ -1,0 +1,6 @@
+@echo off
+title COS30019 Introduction to Artificial Intelligence Assignment 1
+set /p path=Please Enter Filepath for .txt file of the Environment:
+set /p string=Please type the type of Search you wish to perform (BFS, DFS, Greedy, A*, Bidirectional.  All these can be done with or without jump):
+"%~dp0RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.exe" "%path%" "%string%" > CON
+pause

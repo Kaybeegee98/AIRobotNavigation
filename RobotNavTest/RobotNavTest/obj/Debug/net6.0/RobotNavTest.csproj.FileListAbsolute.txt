@@ -1,0 +1,15 @@
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.exe
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.deps.json
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.runtimeconfig.json
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.dll
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\bin\Debug\net6.0\RobotNavTest.pdb
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.csproj.AssemblyReference.cache
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.AssemblyInfoInputs.cache
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.AssemblyInfo.cs
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.csproj.CoreCompileInputs.cache
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.dll
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\refint\RobotNavTest.dll
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.pdb
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\RobotNavTest.genruntimeconfig.cache
+E:\School Work\COS30019\Assignment1\RobotNavTest\RobotNavTest\obj\Debug\net6.0\ref\RobotNavTest.dll
